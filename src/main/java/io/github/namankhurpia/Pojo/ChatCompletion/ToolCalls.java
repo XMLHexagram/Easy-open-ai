@@ -29,7 +29,7 @@ public class ToolCalls {
     String type;
 
     @JsonProperty("function")
-    Function function;
+    ToolCallsFunction function;
 
 
 }
